@@ -1,3 +1,3 @@
 # learning
 Learning
-https://github.com/anilgarg88/learning.git
+git remote add origin <username>/learning.git
